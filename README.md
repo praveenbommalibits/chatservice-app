@@ -44,7 +44,9 @@ This WebSocket Chat Application allows users to communicate with each other in r
 - Test authentication, message storage, retrieval, and deletion functionalities manually and automate where possible.
 
 
-# Cloud deployment 
+# Deployment 
+### CICD - Github actions 
+### Deployment - Azure
 # WebSocket Chat App Deployment
 
 This guide outlines the steps to deploy the WebSocket Chat App to Azure using GitHub Actions CI/CD.
